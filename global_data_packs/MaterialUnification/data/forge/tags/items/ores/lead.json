@@ -1,0 +1,7 @@
+{
+    "replace": true,
+    "values": [
+        "thermal:lead_ore",
+        "exnihilosequentia:chunk_lead"
+    ]
+}

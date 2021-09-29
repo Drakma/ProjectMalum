@@ -1,0 +1,7 @@
+{
+    "replace": true,
+    "values": [
+        "silents_mechanisms:bauxite_ore",
+        "exnihilosequentia:chunk_aluminum"
+    ]
+}

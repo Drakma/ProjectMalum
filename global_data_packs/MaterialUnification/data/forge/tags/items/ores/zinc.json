@@ -1,0 +1,8 @@
+{
+    "replace": true,
+    "values": [
+        "create:zinc_ore",
+        "silents_mechanisms:zinc_ore",
+        "exnihilosequentia:chunk_zinc"
+    ]
+}

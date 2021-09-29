@@ -1,0 +1,15 @@
+#Range: > -1
+sea_level = -1
+dimensions_blacklist = ["minecraft:the_end"]
+#Range: 0.0 ~ 1.0
+dig_speed_multiplier = 0.075
+dig_speed_blocks_blacklist = []
+#Range: 0.0 ~ 1.0
+dealt_damage_multiplier = 0.05
+dealt_damage_entities_blacklist = []
+#Range: 0.0 ~ 1.0
+incoming_damage_multiplier = 0.065
+incoming_damage_entities_blacklist = []
+#Range: 0.0 ~ 1.0
+healing_multiplier = 0.075
+
