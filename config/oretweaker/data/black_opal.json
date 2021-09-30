@@ -1,0 +1,23 @@
+{
+    "oreConfig": [{
+            "ore": "oresabovediamonds:nether_black_opal_ore",
+            "filler": "minecraft:netherrack",
+            "minY": 10,
+            "maxY": 246,
+            "maxVeinSize": 4,
+            "spawnRate": 1.0,
+            "biomeBlacklist": [],
+            "biomeWhitelist": []
+        },
+        {
+            "ore": "oresabovediamonds:nether_black_opal_ore",
+            "filler": "minecraft:netherrack",
+            "minY": 10,
+            "maxY": 246,
+            "maxVeinSize": 2,
+            "spawnRate": 1.0,
+            "biomeBlacklist": [],
+            "biomeWhitelist": []
+        }
+    ]
+}

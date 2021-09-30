@@ -16,3 +16,5 @@
 /options.txt
 /patchouli_data.json
 /usernamecache.json
+/config/**/*.toml.bak
+/grep2File.g2f.txt

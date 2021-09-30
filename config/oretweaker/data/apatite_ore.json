@@ -1,0 +1,12 @@
+{
+    "oreConfig": [{
+        "ore": "thermal:apatite_ore",
+        "filler": "minecraft:stone",
+        "minY": 35,
+        "maxY": 128,
+        "maxVeinSize": 30,
+        "spawnRate": 1.0,
+        "biomeBlacklist": [],
+        "biomeWhitelist": []
+    }]
+}

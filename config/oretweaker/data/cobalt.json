@@ -1,0 +1,23 @@
+{
+    "oreConfig": [{
+            "ore": "tconstruct:cobalt_ore",
+            "filler": "minecraft:netherrack",
+            "minY": 10,
+            "maxY": 246,
+            "maxVeinSize": 4,
+            "spawnRate": 2.0,
+            "biomeBlacklist": [],
+            "biomeWhitelist": []
+        },
+        {
+            "ore": "tconstruct:cobalt_ore",
+            "filler": "minecraft:netherrack",
+            "minY": 10,
+            "maxY": 246,
+            "maxVeinSize": 2,
+            "spawnRate": 2.0,
+            "biomeBlacklist": [],
+            "biomeWhitelist": []
+        }
+    ]
+}

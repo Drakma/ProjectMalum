@@ -11,7 +11,7 @@
 	#Range: 0 ~ 6000
 	timeToLive = 1200
 	#If enabled then seeds will only voluntarily plant themselves in forest-like biomes.
-	seedOnlyForest = true
+	seedOnlyForest = false
 	#The minimum forestness that non-forest-like biomes can have. 0 = is not at all a forest, 1 = may as well be a forest. Can be fractional.
 	#Range: 0.0 ~ 1.0
 	seedMinForestness = 0.0
@@ -20,13 +20,13 @@
 [trees]
 	#Factor that multiplies the rate at which trees grow. Use at own risk
 	#Range: 0.0 ~ 16.0
-	growthMultiplier = 0.7
+	growthMultiplier = 0.5
 	#Factor that multiplies the wood returned from harvesting a tree.  You cheat.
 	#Range: 0.0 ~ 128.0
-	harvestMultiplier = 1.4
+	harvestMultiplier = 1.0
 	#Maximum harvesting hardness that can be calculated. Regardless of tree thickness.
 	#Range: 1.0 ~ 200.0
-	maxTreeHardness = 20.0
+	maxTreeHardness = 40.0
 	#Do X growth cycles at once while ignoring (X-1)/X attempts.  Higher numbers can improve client side performance but too high can make trees grow wierd.
 	#Range: 1 ~ 8
 	growthFolding = 2
@@ -37,7 +37,7 @@
 	scaleBiomeGrowthRate = 0.5
 	#The chance of a tree on depleted soil to die. 1/256(~0.004) averages to about 1 death every 16 minecraft days
 	#Range: 0.0 ~ 1.0
-	diseaseChance = 0.0
+	diseaseChance = 0.004
 	#The maximum radius of a branch that is allowed to postRot away. 8 = Full block size. 24 = Full 3x3 thick size. Set to 0 to prevent rotting
 	#Range: 0 ~ 24
 	maxBranchRotRadius = 7
@@ -65,7 +65,7 @@
 	#Allowed Values: VANILLA, THICKNESS, VOLUME
 	axeDamageMode = "THICKNESS"
 	#If enabled then trees will fall over when harvested
-	enableFallingTrees = true
+	enableFallingTrees = false
 	#If enabled then trees will harm living entities when falling
 	enableFallingTreeDamage = true
 	#Multiplier for damage incurred by a falling tree

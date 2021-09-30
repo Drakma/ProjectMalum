@@ -1,0 +1,7 @@
+{
+    "replace": true,
+    "values": [
+        "oresabovediamonds:nether_amethyst_ore",
+        "oresabovediamonds:amethyst_ore"
+    ]
+}

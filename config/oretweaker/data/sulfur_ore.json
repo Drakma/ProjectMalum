@@ -1,0 +1,12 @@
+{
+    "oreConfig": [{
+        "ore": "thermal:sulfur_ore",
+        "filler": "minecraft:stone",
+        "minY": 35,
+        "maxY": 128,
+        "maxVeinSize": 6,
+        "spawnRate": 3.0,
+        "biomeBlacklist": [],
+        "biomeWhitelist": []
+    }]
+}

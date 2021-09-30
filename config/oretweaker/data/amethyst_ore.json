@@ -1,0 +1,12 @@
+{
+    "oreConfig": [{
+        "ore": "oresabovediamonds:amethyst_ore",
+        "filler": "minecraft:stone",
+        "minY": 1,
+        "maxY": 6,
+        "maxVeinSize": 2,
+        "spawnRate": 1.0,
+        "biomeBlacklist": [],
+        "biomeWhitelist": []
+    }]
+}

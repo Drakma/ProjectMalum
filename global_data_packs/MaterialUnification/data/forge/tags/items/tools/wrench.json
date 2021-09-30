@@ -1,0 +1,10 @@
+{
+    "replace": true,
+    "values": [
+        "thermal:wrench",
+        "mekanism:configurator",
+        "appliedenergistics2:certus_quartz_wrench",
+        "appliedenergistics2:nether_quartz_wrench",
+        "powah:wrench"
+    ]
+}

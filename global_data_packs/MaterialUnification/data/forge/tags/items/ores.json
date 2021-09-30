@@ -1,0 +1,31 @@
+{
+    "replace": true,
+    "values": [
+        "#forge:ores/aluminum",
+        "#forge:ores/amethyst",
+        "#forge:ores/apatite",
+        "#forge:ores/black_opal",
+        "#forge:ores/certus_quartz",
+        "#forge:ores/cinnabar",
+        "#forge:ores/coal",
+        "#forge:ores/cobalt",
+        "#forge:ores/copper",
+        "#forge:ores/diamond",
+        "#forge:ores/emerald",
+        "#forge:ores/gold",
+        "#forge:ores/iron",
+        "#forge:ores/lapis",
+        "#forge:ores/lead",
+        "#forge:ores/nickel",
+        "#forge:ores/niter",
+        "#forge:ores/redstone",
+        "#forge:ores/rock_crystal",
+        "#forge:ores/sapphire",
+        "#forge:ores/starmetal",
+        "#forge:ores/silver",
+        "#forge:ores/sulfur",
+        "#forge:ores/tin",
+        "#forge:ores/uraninite",
+        "#forge:ores/uranium"
+    ]
+}

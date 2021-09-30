@@ -1,0 +1,12 @@
+{
+    "oreConfig": [{
+        "ore": "thermal:copper_ore",
+        "filler": "minecraft:stone",
+        "minY": 48,
+        "maxY": 72,
+        "maxVeinSize": 9,
+        "spawnRate": 5.0,
+        "biomeBlacklist": [],
+        "biomeWhitelist": []
+    }]
+}

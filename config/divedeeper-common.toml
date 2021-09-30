@@ -1,5 +1,5 @@
 #Range: > -1
-sea_level = -1
+sea_level = 64
 dimensions_blacklist = ["minecraft:the_end"]
 #Range: 0.0 ~ 1.0
 dig_speed_multiplier = 0.075

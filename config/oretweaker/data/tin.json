@@ -1,0 +1,12 @@
+{
+    "oreConfig": [{
+        "ore": "thermal:tin_ore",
+        "filler": "minecraft:stone",
+        "minY": 32,
+        "maxY": 128,
+        "maxVeinSize": 3,
+        "spawnRate": 8.0,
+        "biomeBlacklist": [],
+        "biomeWhitelist": []
+    }]
+}
